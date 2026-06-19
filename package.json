@@ -1,0 +1,19 @@
+{
+  "name": "auto-suggest",
+  "version": "1.0.0",
+  "description": "verifying my git set-up. 1.add(plus button) 2.commit with message 3.push/sync",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minupala-Sharanya337/Auto-Suggest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Minupala-Sharanya337/Auto-Suggest/issues"
+  },
+  "homepage": "https://github.com/Minupala-Sharanya337/Auto-Suggest#readme"
+}
