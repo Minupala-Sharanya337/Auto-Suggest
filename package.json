@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Minupala-Sharanya337/Auto-Suggest/issues"
   },
-  "homepage": "https://github.com/Minupala-Sharanya337/Auto-Suggest#readme"
+  "homepage": "https://github.com/Minupala-Sharanya337/Auto-Suggest#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
