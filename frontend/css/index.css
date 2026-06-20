@@ -1,3 +1,19 @@
-h1{
-    color:red;
+h1 {
+    color:red
+}
+#heading2 {
+    color: blue;
+}
+.heading {
+    color: green;
+}
+.para{
+    color: orange;
+}
+.navbar{
+    border : 4px;
+    border-color: black;
+    border-style: solid;
+    padding: 50px;
+    background-color: brown;
 }
